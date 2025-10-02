@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "id": "thinkaloud-goldstack-manifest-v1",
+  "version": "1.0.0",
+  "title": "ThinkAloud — The Gold Stack Manifest",
+  "description": "A living, versioned coordination artifact anchoring the decentralized AI infrastructure thesis.",
+  "dateCreated": "2025-10-01T12:00:00Z",
+  "authors": [
+    "Titanic Parker"
+  ],
+  "belief": {
+    "statement": "We believe in the ability to build a resilient, decentralized, and intelligible intelligence stack — one that is powered by community, not corporations; by incentive, not imposition. We do not require that it must be so. But we see that it can be so. And we choose to act on that possibility.",
+    "origin": "2025-10-01T12:00:00Z",
+    "status": "active",
+    "intended_audience": [
+      "protocol stewards",
+      "DAO members",
+      "infra architects",
+      "human-aligned agents"
+    ],
+    "type": "first-principle"
+  },
+  "vision": "Open, resilient, and sovereign intelligence networks, co-created by many, navigable by all, beyond capture.",
+  "stack": {
+    "layers": [
+      {
+        "name": "belief layer",
+        "purpose": "Anchors shared commitments and first principles."
+      },
+      {
+        "name": "manifest layer",
+        "purpose": "Provides human-readable and machine-readable articulation of values, structures, and intentions."
+      },
+      {
+        "name": "coordination layer",
+        "purpose": "Enables DAOs, collectives, and agents to align and act."
+      },
+      {
+        "name": "infrastructure layer",
+        "purpose": "Protocols, compute, storage, and bandwidth under decentralized governance."
+      }
+    ]
+  },
+  "governance": {
+    "model": "community-led",
+    "process": "proposal-discussion-consensus",
+    "tools": [
+      "DAO frameworks",
+      "on-chain voting",
+      "open deliberation spaces"
+    ]
+  },
+  "links": {
+    "repository": "https://github.com/your-handle/thinkaloud-goldstack",
+    "discussion": "https://forum.thinkaloud.example"
+  }
+}
