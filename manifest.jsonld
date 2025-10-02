@@ -4,33 +4,31 @@
   "id": "thinkaloud-goldstack-manifest-v1",
   "version": "1.0.0",
   "title": "ThinkAloud — The Gold Stack Manifest",
+  "name": "ThinkAloud — The Gold Stack Manifest",
   "description": "A living, versioned coordination artifact anchoring the decentralized AI infrastructure thesis.",
   "keywords": [
-  "AI Valley",
-  "Decentralized AI",
-  "Web3 AI",
-  "Akash",
-  "Render",
-  "Filecoin",
-  "Ocean Protocol",
-  "Bittensor",
-  "Helium",
-  "Arweave",
-  "IPFS"
-],
-"inLanguage": "en",
-"name": "ThinkAloud — The Gold Stack Manifest",
-"author": [{ "@type": "Person", "name": "Your Name / Alias" }],
-"isBasedOn": "ipfs://bafybeihdvtzx3mshjal6zy2ovml2flikuvzmxb3tgbfpayke2cjlhqdw2a/index.html",
-"sameAs": [
-  "https://titanicparker.github.io/thinkaloud-goldstack/",
-  "https://ipfs.io/ipfs/bafybeihdvtzx3mshjal6zy2ovml2flikuvzmxb3tgbfpayke2cjlhqdw2a/index.html"
-]
-
-  "dateCreated": "2025-10-01T12:00:00Z",
-  "authors": [
-    "Titanic Parker"
+    "AI Valley",
+    "Decentralized AI",
+    "Web3 AI",
+    "Akash",
+    "Render",
+    "Filecoin",
+    "Ocean Protocol",
+    "Bittensor",
+    "Helium",
+    "Arweave",
+    "IPFS"
   ],
+  "inLanguage": "en",
+  "author": [
+    { "@type": "Person", "name": "Titanic Parker" }
+  ],
+  "isBasedOn": "ipfs://bafybeihdvtzx3mshjal6zy2ovml2flikuvzmxb3tgbfpayke2cjlhqdw2a/index.html",
+  "sameAs": [
+    "https://titanicparker.github.io/thinkaloud-goldstack/",
+    "https://ipfs.io/ipfs/bafybeihdvtzx3mshjal6zy2ovml2flikuvzmxb3tgbfpayke2cjlhqdw2a/index.html"
+  ],
+  "dateCreated": "2025-10-01T12:00:00Z",
   "belief": {
     "statement": "We believe in the ability to build a resilient, decentralized, and intelligible intelligence stack — one that is powered by community, not corporations; by incentive, not imposition. We do not require that it must be so. But we see that it can be so. And we choose to act on that possibility.",
     "origin": "2025-10-01T12:00:00Z",
