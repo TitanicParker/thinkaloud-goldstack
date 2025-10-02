@@ -1,78 +1,70 @@
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "id": "thinkaloud-goldstack-manifest-v1",
+  "@id": "https://titanicparker.github.io/thinkaloud-goldstack/#manifest",
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "Manifest ID",
+    "value": "thinkaloud-goldstack-manifest-v1"
+  },
   "version": "1.0.0",
-  "title": "ThinkAloud — The Gold Stack Manifest",
   "name": "ThinkAloud — The Gold Stack Manifest",
-  "description": "A living, versioned coordination artifact anchoring the decentralized AI infrastructure thesis.",
+  "headline": "A living, versioned coordination artifact anchoring the decentralized AI infrastructure thesis.",
+  "description": "Canonical, human + machine readable statement of intent for a decentralized AI stack, with versioning and portable distribution.",
+  "abstract": "Vision: Open, resilient, and sovereign intelligence infrastructure built by many, safe from collapse.",
+  "dateCreated": "2025-10-01T12:00:00Z",
+  "author": {
+    "@type": "Person",
+    "name": "Your Name / Alias"
+  },
+  "url": "https://titanicparker.github.io/thinkaloud-goldstack/",
+  "mainEntityOfPage": "https://titanicparker.github.io/thinkaloud-goldstack/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "keywords": [
-    "AI Valley",
-    "Decentralized AI",
-    "Web3 AI",
+    "decentralized AI",
+    "compute",
+    "storage",
+    "governance",
+    "IPFS",
     "Akash",
     "Render",
-    "Filecoin",
-    "Ocean Protocol",
     "Bittensor",
-    "Helium",
+    "Filecoin",
     "Arweave",
-    "IPFS"
+    "Ocean Protocol",
+    "Helium"
   ],
-  "inLanguage": "en",
-  "author": [
-    { "@type": "Person", "name": "Titanic Parker" }
+  "about": [
+    { "@type": "Thing", "name": "Belief", "description": "We act not on inevitability, but on possibility; build resilient, decentralized, intelligible intelligence." },
+    { "@type": "Thing", "name": "Connectivity", "keywords": ["Helium (HNT)"] },
+    { "@type": "Thing", "name": "Compute", "keywords": ["Akash (AKT)", "Render (RNDR)", "Bittensor (TAO)"] },
+    { "@type": "Thing", "name": "Storage", "keywords": ["Filecoin (FIL)", "IPFS", "Arweave"] },
+    { "@type": "Thing", "name": "Data Marketplace", "keywords": ["Ocean Protocol (OCEAN)"] },
+    { "@type": "Thing", "name": "Governance & Coordination", "keywords": ["DAOs", "Proof-of-Compute frameworks"] }
   ],
-  "isBasedOn": "ipfs://bafybeihdvtzx3mshjal6zy2ovml2flikuvzmxb3tgbfpayke2cjlhqdw2a/index.html",
-  "sameAs": [
-    "https://titanicparker.github.io/thinkaloud-goldstack/",
-    "https://ipfs.io/ipfs/bafybeihdvtzx3mshjal6zy2ovml2flikuvzmxb3tgbfpayke2cjlhqdw2a/index.html"
+  "hasPart": [
+    { "@type": "CreativeWork", "name": "Mission", "text": "Coordinate incentives, alignment, and growth of protocols, agents, and DAOs in the decentralized compute–data stack." },
+    { "@type": "CreativeWork", "name": "Use Case: Protocol Alignment", "text": "Protocols adopt the manifest as a base reference for component roles." },
+    { "@type": "CreativeWork", "name": "Use Case: DAO Seed", "text": "Use as a founding constitution/baseline for a multi-protocol DAO." },
+    { "@type": "CreativeWork", "name": "Use Case: Agent Planning", "text": "Agents parse to route tasks, stake, or expand." },
+    { "@type": "CreativeWork", "name": "Use Case: Index & Portfolio Construction", "text": "Component roles inform thematic baskets." },
+    { "@type": "CreativeWork", "name": "Use Case: Versioned Evolution", "text": "Fork and extend via democratic processes." }
   ],
-  "dateCreated": "2025-10-01T12:00:00Z",
-  "belief": {
-    "statement": "We believe in the ability to build a resilient, decentralized, and intelligible intelligence stack — one that is powered by community, not corporations; by incentive, not imposition. We do not require that it must be so. But we see that it can be so. And we choose to act on that possibility.",
-    "origin": "2025-10-01T12:00:00Z",
-    "status": "active",
-    "intended_audience": [
-      "protocol stewards",
-      "DAO members",
-      "infra architects",
-      "human-aligned agents"
-    ],
-    "type": "first-principle"
-  },
-  "vision": "Open, resilient, and sovereign intelligence networks, co-created by many, navigable by all, beyond capture.",
-  "stack": {
-    "layers": [
-      {
-        "name": "belief layer",
-        "purpose": "Anchors shared commitments and first principles."
-      },
-      {
-        "name": "manifest layer",
-        "purpose": "Provides human-readable and machine-readable articulation of values, structures, and intentions."
-      },
-      {
-        "name": "coordination layer",
-        "purpose": "Enables DAOs, collectives, and agents to align and act."
-      },
-      {
-        "name": "infrastructure layer",
-        "purpose": "Protocols, compute, storage, and bandwidth under decentralized governance."
-      }
-    ]
-  },
-  "governance": {
-    "model": "community-led",
-    "process": "proposal-discussion-consensus",
-    "tools": [
-      "DAO frameworks",
-      "on-chain voting",
-      "open deliberation spaces"
-    ]
-  },
-  "links": {
-    "repository": "https://github.com/your-handle/thinkaloud-goldstack",
-    "discussion": "https://forum.thinkaloud.example"
-  }
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/ld+json",
+      "contentUrl": "https://titanicparker.github.io/thinkaloud-goldstack/manifest.jsonld"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/html",
+      "contentUrl": "https://ipfs.io/ipfs/bafybeihdvtzx3mshjal6zy2ovml2flikuvzmxb3tgbfpayke2cjlhqdw2a/index.html"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/html",
+      "contentUrl": "https://titanicparker.github.io/thinkaloud-goldstack/"
+    }
+  ]
 }
