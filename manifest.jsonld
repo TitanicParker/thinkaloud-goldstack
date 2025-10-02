@@ -5,6 +5,28 @@
   "version": "1.0.0",
   "title": "ThinkAloud — The Gold Stack Manifest",
   "description": "A living, versioned coordination artifact anchoring the decentralized AI infrastructure thesis.",
+  "keywords": [
+  "AI Valley",
+  "Decentralized AI",
+  "Web3 AI",
+  "Akash",
+  "Render",
+  "Filecoin",
+  "Ocean Protocol",
+  "Bittensor",
+  "Helium",
+  "Arweave",
+  "IPFS"
+],
+"inLanguage": "en",
+"name": "ThinkAloud — The Gold Stack Manifest",
+"author": [{ "@type": "Person", "name": "Your Name / Alias" }],
+"isBasedOn": "ipfs://bafybeihdvtzx3mshjal6zy2ovml2flikuvzmxb3tgbfpayke2cjlhqdw2a/index.html",
+"sameAs": [
+  "https://titanicparker.github.io/thinkaloud-goldstack/",
+  "https://ipfs.io/ipfs/bafybeihdvtzx3mshjal6zy2ovml2flikuvzmxb3tgbfpayke2cjlhqdw2a/index.html"
+]
+
   "dateCreated": "2025-10-01T12:00:00Z",
   "authors": [
     "Titanic Parker"
